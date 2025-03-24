@@ -1,6 +1,7 @@
 # 📌 Project Management Dashboard  
 
-A modern **project management dashboard** built using **React.js, Tailwind CSS, Zustand, and React Query**. It provides an efficient way to track tasks, manage workflows, and collaborate with team members.  
+A modern **project management dashboard** built using **React.js, Tailwind CSS, Zustand, and React Query**. It provides an efficient way to track tasks, manage workflows, and collaborate with team members.
+Check out the website here:[Live Demo](project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app)
 
 ---
 
@@ -19,15 +20,12 @@ A modern **project management dashboard** built using **React.js, Tailwind CSS, 
 ✅ Collaborative task assignments  
 ✅ User authentication with Supabase  
 
----
-
-## 🚀 Live Demo  
-🔗 [Live Demo](project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app)
 
 ---
 
 ## 📸 Screenshots  
-![Imgur](https://imgur.com/y5eQqTR)
+![image](https://github.com/user-attachments/assets/40feaa88-57c4-4a12-9f58-2118ebe73bf5)
+
 ---
 
 ## 🔧 Installation Guide  
