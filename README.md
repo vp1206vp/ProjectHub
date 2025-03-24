@@ -1,7 +1,8 @@
 # 📌 Project Management Dashboard  
 
 A modern **project management dashboard** built using **React.js, Tailwind CSS, Zustand, and React Query**. It provides an efficient way to track tasks, manage workflows, and collaborate with team members.
-Check out the website here:[Live Demo](project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app)
+Check out the website here: [Live Demo](https://project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app)
+
 
 ---
 
@@ -34,7 +35,7 @@ Follow these steps to set up the project locally:
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/vp1206vp/ProjectHub.git
 cd your-repo
 ```
 ### **2️⃣ Install Dependencies**  
