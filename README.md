@@ -22,13 +22,12 @@ A modern **project management dashboard** built using **React.js, Tailwind CSS, 
 ---
 
 ## 🚀 Live Demo  
-🔗 [Live Demo](project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app) *(Replace with actual link)*  
+🔗 [Live Demo](project-ocajy9iuv-vanditha-pradeeps-projects.vercel.app)
 
 ---
 
 ## 📸 Screenshots  
-![Dashboard Screenshot](https://imgur.com/y5eQqTR) *(Replace with an actual screenshot link)*  
-
+![Imgur](https://imgur.com/y5eQqTR)
 ---
 
 ## 🔧 Installation Guide  
