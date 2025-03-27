@@ -19,7 +19,6 @@ Check out the website here: [Live Demo](https://project-ocajy9iuv-vanditha-prade
 ✅ Drag-and-drop functionality  
 ✅ Customizable workflows  
 ✅ Collaborative task assignments  
-✅ User authentication with Supabase  
 
 
 ---
